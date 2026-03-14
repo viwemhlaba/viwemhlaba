@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-viwemhlabavm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viwemhlabavm@gmail.com)
 [![Phone](<https://img.shields.io/badge/Phone-(+27)_671_075_111-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>)](tel:+27671075111)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Here-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/viwemhlaba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Here-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viwe-mhlaba-portfolio-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viwemhlaba)
 
 </div>
